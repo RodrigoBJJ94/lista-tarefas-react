@@ -15,4 +15,10 @@ footer {
   color: white;
   text-align: center;
   font-size: 18px;
+  padding-top: 600px;
+}
+@media (max-width: 800px) {
+  footer {
+    padding-top: 380px;
+  }
 }
