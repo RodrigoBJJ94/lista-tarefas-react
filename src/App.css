@@ -4,21 +4,31 @@
   outline: 0;
   box-sizing: border-box;
 }
+
 body {
   font-family: sans-serif;
   background: #0a4f70;
 }
+
 button {
   cursor: pointer;
 }
+
 footer {
   color: white;
   text-align: center;
   font-size: 18px;
-  padding-top: 600px;
+  padding-top: 640px;
 }
+
 @media (max-width: 800px) {
   footer {
-    padding-top: 380px;
+    padding-top: 395px;
+  }
+}
+
+@media (max-width: 350px) {
+  footer {
+    padding-top: 305px;
   }
 }

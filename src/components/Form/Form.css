@@ -4,6 +4,7 @@
   align-items: center;
   justify-content: center;
 }
+
 .form input[type="text"] {
   height: 40px;
   padding: 0 20px;
@@ -11,6 +12,7 @@
   border: 1px solid #ccc;
   min-width: 90%;
 }
+
 .form button[type="submit"] {
   border: none;
   height: 40px;
@@ -21,6 +23,7 @@
   align-items: center;
   justify-content: center;
 }
+
 .form button[type="submit"]:hover {
   background: #9c1429;
 }
