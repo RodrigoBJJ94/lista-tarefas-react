@@ -13,22 +13,3 @@ body {
 button {
   cursor: pointer;
 }
-
-footer {
-  color: white;
-  text-align: center;
-  font-size: 18px;
-  padding-top: 640px;
-}
-
-@media (max-width: 800px) {
-  footer {
-    padding-top: 395px;
-  }
-}
-
-@media (max-width: 350px) {
-  footer {
-    padding-top: 305px;
-  }
-}
