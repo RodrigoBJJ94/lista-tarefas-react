@@ -1,2 +1,2 @@
-# lista-tarefas-react-javascript-html-css
+# lista-tarefas-react
  
